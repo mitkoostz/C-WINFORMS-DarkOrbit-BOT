@@ -1,0 +1,7 @@
+WHAT BOT  HAS ? :
+
+
+- selector - select minimap and let bot know where to search boxes
+- global hotkeys F9 - start bot and SHIFT + F10 to stop the bot
+- form background image added! / fromm google 
+- form button SELECT MINIMAP  background image added/ from googl

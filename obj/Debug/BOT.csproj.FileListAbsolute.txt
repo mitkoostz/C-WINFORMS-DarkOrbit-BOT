@@ -1,0 +1,63 @@
+D:\My Pojects C#\BOT\BOT\obj\Debug\BOT.Form1.resources
+D:\My Pojects C#\BOT\BOT\obj\Debug\BOT.Properties.Resources.resources
+D:\My Pojects C#\BOT\BOT\obj\Debug\BOT.csproj.GenerateResource.Cache
+D:\My Pojects C#\BOT\BOT\obj\Debug\BOT.csproj.CoreCompileInputs.cache
+D:\My Pojects C#\BOT\BOT\bin\Debug\BOT.exe.config
+D:\My Pojects C#\BOT\BOT\bin\Debug\BOT.exe
+D:\My Pojects C#\BOT\BOT\bin\Debug\BOT.pdb
+D:\My Pojects C#\BOT\BOT\obj\Debug\BOT.exe
+D:\My Pojects C#\BOT\BOT\obj\Debug\BOT.pdb
+D:\My Pojects C#\BOT\BOT\obj\Debug\BOT.csprojResolveAssemblyReference.cache
+D:\My Pojects C#\BOT OFFICIAL\BOT 2.0\BOT\bin\Debug\BOT.exe.config
+D:\My Pojects C#\BOT OFFICIAL\BOT 2.0\BOT\bin\Debug\BOT.exe
+D:\My Pojects C#\BOT OFFICIAL\BOT 2.0\BOT\bin\Debug\BOT.pdb
+D:\My Pojects C#\BOT OFFICIAL\BOT 2.0\BOT\obj\Debug\BOT.csprojResolveAssemblyReference.cache
+D:\My Pojects C#\BOT OFFICIAL\BOT 2.0\BOT\obj\Debug\BOT.Form1.resources
+D:\My Pojects C#\BOT OFFICIAL\BOT 2.0\BOT\obj\Debug\BOT.Properties.Resources.resources
+D:\My Pojects C#\BOT OFFICIAL\BOT 2.0\BOT\obj\Debug\BOT.csproj.GenerateResource.Cache
+D:\My Pojects C#\BOT OFFICIAL\BOT 2.0\BOT\obj\Debug\BOT.csproj.CoreCompileInputs.cache
+D:\My Pojects C#\BOT OFFICIAL\BOT 2.0\BOT\obj\Debug\BOT.exe
+D:\My Pojects C#\BOT OFFICIAL\BOT 2.0\BOT\obj\Debug\BOT.pdb
+D:\My Pojects C#\BOT OFFICIAL\BOT 3.0\BOT\bin\Debug\BOT.exe.config
+D:\My Pojects C#\BOT OFFICIAL\BOT 3.0\BOT\bin\Debug\BOT.exe
+D:\My Pojects C#\BOT OFFICIAL\BOT 3.0\BOT\bin\Debug\BOT.pdb
+D:\My Pojects C#\BOT OFFICIAL\BOT 3.0\BOT\obj\Debug\BOT.csprojResolveAssemblyReference.cache
+D:\My Pojects C#\BOT OFFICIAL\BOT 3.0\BOT\obj\Debug\BOT.Form1.resources
+D:\My Pojects C#\BOT OFFICIAL\BOT 3.0\BOT\obj\Debug\BOT.Properties.Resources.resources
+D:\My Pojects C#\BOT OFFICIAL\BOT 3.0\BOT\obj\Debug\BOT.csproj.GenerateResource.Cache
+D:\My Pojects C#\BOT OFFICIAL\BOT 3.0\BOT\obj\Debug\BOT.csproj.CoreCompileInputs.cache
+D:\My Pojects C#\BOT OFFICIAL\BOT 3.0\BOT\obj\Debug\BOT.exe
+D:\My Pojects C#\BOT OFFICIAL\BOT 3.0\BOT\obj\Debug\BOT.pdb
+D:\My Pojects C#\BOT OFFICIAL\BOT 5.0\BOT\bin\Debug\BOT.exe.config
+D:\My Pojects C#\BOT OFFICIAL\BOT 5.0\BOT\bin\Debug\BOT.exe
+D:\My Pojects C#\BOT OFFICIAL\BOT 5.0\BOT\bin\Debug\BOT.pdb
+D:\My Pojects C#\BOT OFFICIAL\BOT 5.0\BOT\obj\Debug\BOT.csprojResolveAssemblyReference.cache
+D:\My Pojects C#\BOT OFFICIAL\BOT 5.0\BOT\obj\Debug\BOT.Form1.resources
+D:\My Pojects C#\BOT OFFICIAL\BOT 5.0\BOT\obj\Debug\BOT.Properties.Resources.resources
+D:\My Pojects C#\BOT OFFICIAL\BOT 5.0\BOT\obj\Debug\BOT.Selector.resources
+D:\My Pojects C#\BOT OFFICIAL\BOT 5.0\BOT\obj\Debug\BOT.csproj.GenerateResource.Cache
+D:\My Pojects C#\BOT OFFICIAL\BOT 5.0\BOT\obj\Debug\BOT.csproj.CoreCompileInputs.cache
+D:\My Pojects C#\BOT OFFICIAL\BOT 5.0\BOT\obj\Debug\BOT.exe
+D:\My Pojects C#\BOT OFFICIAL\BOT 5.0\BOT\obj\Debug\BOT.pdb
+D:\My Pojects C#\BOT OFFICIAL\BOT 6.0\BOT\bin\Debug\BOT.exe.config
+D:\My Pojects C#\BOT OFFICIAL\BOT 6.0\BOT\bin\Debug\BOT.exe
+D:\My Pojects C#\BOT OFFICIAL\BOT 6.0\BOT\bin\Debug\BOT.pdb
+D:\My Pojects C#\BOT OFFICIAL\BOT 6.0\BOT\obj\Debug\BOT.csprojResolveAssemblyReference.cache
+D:\My Pojects C#\BOT OFFICIAL\BOT 6.0\BOT\obj\Debug\BOT.Form1.resources
+D:\My Pojects C#\BOT OFFICIAL\BOT 6.0\BOT\obj\Debug\BOT.Properties.Resources.resources
+D:\My Pojects C#\BOT OFFICIAL\BOT 6.0\BOT\obj\Debug\BOT.Selector.resources
+D:\My Pojects C#\BOT OFFICIAL\BOT 6.0\BOT\obj\Debug\BOT.csproj.GenerateResource.Cache
+D:\My Pojects C#\BOT OFFICIAL\BOT 6.0\BOT\obj\Debug\BOT.csproj.CoreCompileInputs.cache
+D:\My Pojects C#\BOT OFFICIAL\BOT 6.0\BOT\obj\Debug\BOT.exe
+D:\My Pojects C#\BOT OFFICIAL\BOT 6.0\BOT\obj\Debug\BOT.pdb
+D:\My Pojects C#\BOT OFFICIAL\BOT 7.0\BOT\bin\Debug\BOT.exe.config
+D:\My Pojects C#\BOT OFFICIAL\BOT 7.0\BOT\bin\Debug\BOT.exe
+D:\My Pojects C#\BOT OFFICIAL\BOT 7.0\BOT\bin\Debug\BOT.pdb
+D:\My Pojects C#\BOT OFFICIAL\BOT 7.0\BOT\obj\Debug\BOT.csprojResolveAssemblyReference.cache
+D:\My Pojects C#\BOT OFFICIAL\BOT 7.0\BOT\obj\Debug\BOT.Form1.resources
+D:\My Pojects C#\BOT OFFICIAL\BOT 7.0\BOT\obj\Debug\BOT.Properties.Resources.resources
+D:\My Pojects C#\BOT OFFICIAL\BOT 7.0\BOT\obj\Debug\BOT.Selector.resources
+D:\My Pojects C#\BOT OFFICIAL\BOT 7.0\BOT\obj\Debug\BOT.csproj.GenerateResource.Cache
+D:\My Pojects C#\BOT OFFICIAL\BOT 7.0\BOT\obj\Debug\BOT.csproj.CoreCompileInputs.cache
+D:\My Pojects C#\BOT OFFICIAL\BOT 7.0\BOT\obj\Debug\BOT.exe
+D:\My Pojects C#\BOT OFFICIAL\BOT 7.0\BOT\obj\Debug\BOT.pdb
